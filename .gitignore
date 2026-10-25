@@ -1,0 +1,20 @@
+# Compressed archives (user explicit requirement)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Microsoft Office temporary lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Node dependencies and logs
+node_modules/
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
